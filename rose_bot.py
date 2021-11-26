@@ -167,6 +167,3 @@ client.run(token)
 # https://discord.com/api/oauth2/authorize?client_id=912622098520875018&permissions=8&scope=bot
 
 
-# OTEyNjIyMDk4NTIwODc1MDE4.YZynjw.Iag8r8hwr9fSI_2S5ikvmx3M-aY
-
-
