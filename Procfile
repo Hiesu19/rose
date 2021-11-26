@@ -1,0 +1,1 @@
+worker: python rose_bot.py
