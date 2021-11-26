@@ -3,3 +3,4 @@ youtube_dl
 pyttsx3
 gTTS
 python-dotenv
+PyNaCl
